@@ -26,5 +26,6 @@ The Value of the local variable is
 <%=localVariable%>
 <% localVariable++;%>
 
+<p>Click <a href="login.jsp">HERE</a> to Login.</p>
 </body>
 </html>
